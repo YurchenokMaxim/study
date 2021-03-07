@@ -20,8 +20,8 @@
   
    Эти графики были получены при обучении нейронной сети после добавления слоёв.
    
-  ![график 2.1](https://github.com/YurchenokMaxim/study/blob/main/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B93.png?raw=true)
+  ![график 2.1](https://raw.githubusercontent.com/YurchenokMaxim/study/789e7442057b7a6faffbed202469aa2127f2f195/2epoch_categorical_accuracy.svg)
    
-  ![график 2.2](https://github.com/YurchenokMaxim/study/blob/main/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B94.png?raw=true)
+  ![график 2.2](https://raw.githubusercontent.com/YurchenokMaxim/study/789e7442057b7a6faffbed202469aa2127f2f195/2epoch_loss.svg)
   
   Оранжевая линия построена по логам train, а синяя - по логам validation.
