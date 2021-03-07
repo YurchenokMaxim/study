@@ -14,9 +14,9 @@
   
   Эти графики были получены при обучении исходной нейронной сети без изменений.
   
-  ![график 1.1](https://github.com/YurchenokMaxim/study/blob/main/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9.png?raw=true)
+  ![график 1.1](https://raw.githubusercontent.com/YurchenokMaxim/study/9bf91e516f59d889c52dbb18aaed12ca576950be/1epoch_categorical_accuracy.svg)
 
-  ![график 1.2](https://github.com/YurchenokMaxim/study/blob/main/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B91.png?raw=true)
+  ![график 1.2](https://raw.githubusercontent.com/YurchenokMaxim/study/9bf91e516f59d889c52dbb18aaed12ca576950be/1epoch_loss.svg)
   
    Эти графики были получены при обучении нейронной сети после добавления слоёв.
    
