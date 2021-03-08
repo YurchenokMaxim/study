@@ -13,17 +13,21 @@
   
   **Теперь о нашей задаче**
   
-  На первом графике изображена визуализация метрики качества.
+  *Визуализация метрики качества.*
   
   ![график 1.1](https://raw.githubusercontent.com/YurchenokMaxim/study/9bf91e516f59d889c52dbb18aaed12ca576950be/1epoch_categorical_accuracy.svg)
   
-  На втором графике изображена функция потерь.
+  *Функция потерь.*
 
   ![график 1.2](https://raw.githubusercontent.com/YurchenokMaxim/study/9bf91e516f59d889c52dbb18aaed12ca576950be/1epoch_loss.svg)
   
-   Эти графики были получены при обучении нейронной сети после добавления слоёв.
+  ***Следующие графики бфли получены после изменения кода.***
+  
+  *Визуализация метрики качества.*
    
   ![график 2.1](https://raw.githubusercontent.com/YurchenokMaxim/study/789e7442057b7a6faffbed202469aa2127f2f195/2epoch_categorical_accuracy.svg)
+  
+  *Функция потерь*
    
   ![график 2.2](https://raw.githubusercontent.com/YurchenokMaxim/study/789e7442057b7a6faffbed202469aa2127f2f195/2epoch_loss.svg)
   
