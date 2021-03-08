@@ -13,7 +13,7 @@
 
   ***x = tf.keras.layers.Flatten()(x)*** - эта команда как бы превращает многомерные массивы в одномерный, образуя из данных одномерный тензор, объеденяя измерения, но при этом увеличивая размерность одного.
   
-  ***outputs = tf.keras.layers.Dense(NUM_CLASSES, activation=tf.keras.activations.softmax)(x)*** - отвечает за результатю
+  ***outputs = tf.keras.layers.Dense(NUM_CLASSES, activation=tf.keras.activations.softmax)(x)*** - отвечает за результат.
   
   **Теперь о нашей задаче**
   
