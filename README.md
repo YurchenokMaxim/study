@@ -3,6 +3,8 @@
 
 ![рисунок 1](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0K4iQfVkQq2yavPNWppj0IHEZbsgW8cTmWA&usqp=CAU)
 
+***inputs = tf.keras.Input(shape=(RESIZE_TO, RESIZE_TO, 3))*** - отвечает за входные данные и преобразует их к виду матрицы [None, 224, 224, 3].
+
 В нашем случае мы добавляли слои (***"x = tf.keras.layers.Conv2D(filters=8, kernel_size=3)(inputs)"***). Эта команда создаёт матрицу для операции свёртки входных данных или матрицу свёртки. Сейчас немного про параметры:
 1. ***filters=8*** - этот параметр отвечает за размерность выходного пространства.
 2. ***kernel_size=3*** -этот параметр определяет размерность матрицы свёртки.
